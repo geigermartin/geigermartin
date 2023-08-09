@@ -6,19 +6,19 @@
 
 ### --- Education ---
 #### M.Sc. Movement science & Biomechanics
-- [Multiperspective movement analysis](https://github.com/geigermartin/motionCapture_inverseDynamics): motion capture (Vicon), force plate, inverse Dynamics
+- [Multiperspective movement analysis](https://github.com/geigermartin/motionCapture_inverseDynamics): motion capture (Vicon), force plate, inverse dynamics
 - [Advanced lab](https://github.com/geigermartin/robot_kinematics): robot kinematics
-- [Biological cybernetics](https://github.com/geigermartin/bio_cybernetics): soft robotics, simulation practice (PID control, reinforcement learning, ...), rehabilitation robotics
+- [Biological cybernetics](https://github.com/geigermartin/bio_cybernetics): soft robotics, simulation practice (PID control, reinforcement learning, etc.), rehabilitation robotics
 - [Project](https://github.com/geigermartin/FEM_3D_ostheosynthesis): 3D model of tibial plate in Blender, FEM ostheosynthesis material comparison, endoprosthetics
 
 #### Computational Neuroscience (NMA)
 - [Project](https://github.com/geigermartin/neuralNetwork_classification_NMA): deep learning, classification (NN, SVM, LDA, logistic regression), Calcium-imaging data
 
 ### --- Work ---
-- [EEG lab - Research assistant](https://github.com/geigermartin/EEG_lab_RA): research + order + assemble equipment, set up hardware & software, experiment checklist, instructional video, timing test
+- [EEG lab - Research assistant](https://github.com/geigermartin/EEG_lab_RA): research & set up hardware & software, experiment checklist, instructional video, timing test
 
 ### --- Hackathon ---
-- 1st place winner [data analysis]( https://github.com/sara-knezevic/ECoG-hackathon) at [BR41N.IO hackathon]( https://www.br41n.io/Spring-School-2023): ECoG data, preprocessing, feature extraction (CSP, Riemann covariances), classification (LDA, random forest, SVM), visualization via prosthetics
+- 1st place winner [data analysis]( https://github.com/sara-knezevic/ECoG-hackathon) at [BR41N.IO hackathon]( https://www.br41n.io/Spring-School-2023): ECoG data, Brain-Computer-Interface (BCI)
 
 ### --- Free time projects ---
 - [Prosthetic hand](https://github.com/geigermartin/prostheticHand): prosthetics, EMG, motion capture, Arduino, GUI (PyQt6), App (MIT app inventor), soldering, electronic circuits, 3D modeling & printing, Human-robot interaction: Human &rarr; Python &harr; Arduino &rarr; Prosthetic hand
