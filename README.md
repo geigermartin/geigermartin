@@ -1,6 +1,7 @@
 ## Hi! 👋
 
 ### --- Research ---
+- RA: [Non-invasive brain-computer-interface for remote rehab and training of motor skills](https://github.com/geigermartin/neurofeedbackBCI)
 - M.Sc. thesis: [Investigating the effect of overlap and event duration on the neural response](https://github.com/s-ccs/MSc_EventDuration)
 - B.Sc. thesis: [Investigating the effects of *Mycobacterium suricattae* infection on the gut microbiome of wild meerkats (*Suricata suricatta*) applying High Throughput Sequencing technology](https://github.com/geigermartin/BSc_Susu)
 
